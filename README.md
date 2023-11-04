@@ -7,5 +7,5 @@ Amateur programmer and web designer (C++, Python, Bash, PHP, JS, CSS, HTML)
 https://mavridisf.github.io
 
  ## 📫 How to reach me:
- - E-mail me at `this username at disroot dot org`
+ - E-mail me at `[this username] [at] disroot [dot] org`
  - Find me on XMPP/Jabber (same as above)
